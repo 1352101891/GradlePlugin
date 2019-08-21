@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="second_process">:second_process</string>
+    <string name="third_process">:third_process</string>
+</resources>

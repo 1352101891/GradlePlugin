@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.report" >
+
+    <application>
+        <activity android:theme="@style/AppTheme"
+            android:name=".ReportActivity_v2" />
+    </application>
+</manifest>

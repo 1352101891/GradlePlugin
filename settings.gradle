@@ -1,0 +1,4 @@
+println("正在执行根目录下的setting.gradle")
+include ':app', ':baselibrary'
+include ":report"
+project(':report').projectDir = new File('plugin/report')
